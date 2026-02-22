@@ -1,0 +1,25 @@
+# ----------------------------
+# Node / npm
+# ----------------------------
+node_modules/
+npm-debug.log*
+
+dist/
+build/
+
+.env
+.env.*
+!.env.example
+
+logs/
+*.log
+
+.vscode/
+
+*.sqlite
+*.db
+dump.rdb
+
+*.tsbuildinfo
+
+.cache/
