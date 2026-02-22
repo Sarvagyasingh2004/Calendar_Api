@@ -296,7 +296,6 @@ Response
 
 ```bash
 GET /users/:id
-Authorization: Bearer <token>
 ```
 
 ## Meeting APIs
